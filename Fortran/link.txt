@@ -1,0 +1,5 @@
+http://condor.cc.ku.edu/~grobe/docs/intro-MPI.shtml
+
+https://people.sc.fsu.edu/~jburkardt/f77_src/mpi/mpi.html
+
+https://www.jianshu.com/p/8ea20b2af567
