@@ -1,5 +1,5 @@
-#!/bin/bash
-make
+#!/bin/ksh
+gmake
 
 n=`nproc`
 
